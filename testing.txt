@@ -6,6 +6,8 @@ I added this file from a clone
 
 now I added a new line
 
+added this line from the github interface
+
 ******
 this is the end of testing.txt
 ******
